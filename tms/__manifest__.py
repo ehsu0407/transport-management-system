@@ -63,8 +63,6 @@
     ],
     'demo': [
         'demo/ir_sequence.xml',
-        'demo/product_product.xml',
-        'demo/product_template.xml',
         'demo/fleet_vehicle_odometer.xml',
         'demo/operating_unit.xml',
         'demo/fleet_vehicle_engine.xml',
